@@ -51,7 +51,5 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-*.gitignore.*
-
-ex?
-ex??
+# 忽略编译生成文件
+ex*
