@@ -56,3 +56,11 @@ ex?
 ex??
 
 .un~
+
+#去除vs软件编译生成文件
+Debug/
+*.sln
+*.vcxproj
+*.filters
+*.user
+.vs/
